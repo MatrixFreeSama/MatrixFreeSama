@@ -1,16 +1,23 @@
-## Hi there 👋
+# Profile
 
-<!--
-**MatrixFreeSama/MatrixFreeSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Focused on
 
-Here are some ideas to get you started:
+**C · CUDA · PTX · Assembly**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Compilers · Native execution · GPU computing · Machine-level optimization
+
+## Also
+
+**HLSL · Fortran · TypeScript · JavaScript · HTML · CSS**
+
+Custom NVIDIA SASS  
+Hardware-validated on **Blackwell / RTX 50-series**.  
+Other NVIDIA architectures supported on request; hardware validation is not guaranteed when target hardware is unavailable.
+
+## Scientific Computing
+
+Free custom implementations with  
+**OpenGL · DirectX 11 · Vulkan · DirectX 12 · HLSL**
+
+**Design by me.**  
+**Powered by ChatGPT.**
